@@ -1,9 +1,9 @@
 /****************************************************************************
-*								AMLibExample								*
-* File: AMLibExample.cpp													*
-*																			*
-* Author : Lukasz Wandzik													*
-* This is an example of AMLib usage											*
+* AMLibExample								    *
+* File: AMLibExample.cpp						    *
+*									    *
+* Author : Lukasz Wandzik						    *
+* This is an example of AMLib usage				            *
 ****************************************************************************/
 #include <iostream>
 #include <ShapeModel.h>
